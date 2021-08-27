@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+
+<p align="center">
+  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="500"/>
+</p>
 <hr>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2>Hey there! I'm Ritesh</h2>
@@ -9,7 +13,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💻 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I done my Bachelors Degree in Computer Science and Mathematics at the University of RTM,Nagpur,Maharashtra.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Web Development, Mobile App Development, and Windows App Developmet.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
