@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="400"/>
+  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="400" style="border-radius:10px"/>
 </p>
 <hr>
 
