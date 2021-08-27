@@ -2,8 +2,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="400" style="border-radius:10px"/>
+<p align="center" style="border-radius:10px">
+  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="400" />
 </p>
 <hr>
 
