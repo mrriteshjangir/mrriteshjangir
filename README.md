@@ -2,9 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<p align="center" style="border-radius:10px">
-  <img src="https://learn.roadtocode.org/RTC_DARK_WALLPAPER.jpg" height="400" />
-</p>
 <hr>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2>Hey there! I'm Ritesh</h2>
